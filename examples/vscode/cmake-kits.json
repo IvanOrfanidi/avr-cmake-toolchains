@@ -1,0 +1,6 @@
+[
+    {
+        "name": "GCC AVR",
+        "toolchainFile": "avr-cmake-toolchains/avr-gcc-toolchain.cmake"
+    }
+]
